@@ -1,6 +1,7 @@
-# HackerEarth_Machine_Learning_Exhibit_Art_Rank_22
+# HackerEarth_Machine_Learning_Exhibit_Art
 
-Leaderboard Rank -> 22
+Public Leaderboard Rank - 22
+Private Leaderboard Rank -> 32
 
 Problem_statement -> 
 
